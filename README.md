@@ -3,13 +3,14 @@
 Hello ✨, \
 &emsp;My name is Anastasya Duygu Kılıç and I'm a third year student in Bilkent University
 studying Software Engineering. I always had a passion for learning coding and coming up with projects 
-that I would later on bring to life. Currently I aspire to be a project manager because as 
-I gather more experience I came to understand that planning a project and leading a team is the field I excel most in.
+that I would later on bring to life. Currently I aspire to be in the gaming industry but I also
+have experience in web development.
 
 <h3>SKILLS</h3> 
 
 - **Microsoft Excel, Word & PowerPoint**
 - **C Programming Language**
+- **C#**
 - **HTML**
 - **CSS**
 - **jQuery**
@@ -20,6 +21,7 @@ I gather more experience I came to understand that planning a project and leadin
 - **SQL**
 - **PL/SQL Oracle Forms**
 - **Linux**
+- **Unity**
 
  &emsp;I'm currently learning R, PHP and node.js.
 
