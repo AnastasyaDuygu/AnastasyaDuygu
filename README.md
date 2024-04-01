@@ -23,7 +23,7 @@ have experience in web development.
 - **Linux**
 - **Unity**
 
- &emsp;I'm currently learning R, PHP and node.js.
+ &emsp;I'm currently learning HLSL
 
 <!---
 AnastasyaDuygu/AnastasyaDuygu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
