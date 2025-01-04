@@ -1,27 +1,25 @@
 <h1>About Me </h1>
 
 Hello ✨, \
-&emsp;My name is Anastasya Duygu Kılıç and I'm a third year student in Bilkent University
+&emsp;My name is Anastasya Duygu Kılıç and I'm a fourth year student in Bilkent University
 studying Software Engineering. I always had a passion for learning coding and coming up with projects 
 that I would later on bring to life. Currently I aspire to be in the gaming industry but I also
 have experience in web development.
 
 <h3>SKILLS</h3> 
 
-- **Microsoft Excel, Word & PowerPoint**
-- **C Programming Language**
+- **Unity**
 - **C#**
-- **HTML**
-- **CSS**
-- **jQuery**
-- **JavaScript**
-- **Java**
+- **Web Development (HTML, CSS, PHP, jQuery, Node.js, JavaScript)**
 - **Python**
-- **GLUT-OpenGL**
 - **SQL**
+- **Java**
+- **C Programming Language**
+- **Microsoft Excel, Word & PowerPoint**
+- **GLUT-OpenGL**
 - **PL/SQL Oracle Forms**
 - **Linux**
-- **Unity**
+
 
  &emsp;I'm currently learning HLSL
 
