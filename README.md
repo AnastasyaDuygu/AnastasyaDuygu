@@ -18,12 +18,14 @@ I would later on bring to life. I have experience in the gaming industry and web
 - **PL/SQL Oracle Forms**
 - **Linux**
 
-<h3>APPLICATIONS</h3> (I'm familiar with)
+<h3>APPLICATIONS/TOOLS</h3> (I'm familiar with)
 
 - **Unity**
 - **Fork**
 - **Jira**
 - **Notion**
+- **FileZilla**
+- **Docker**
 - **IDEs (IntelliJ, Visual Studio Code, Visual Studio)**
 
  &emsp;You can check out all my projects from my repositories.
