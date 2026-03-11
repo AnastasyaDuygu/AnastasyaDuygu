@@ -7,7 +7,6 @@ I would later on bring to life. I have experience in the gaming industry and web
 
 <h3>SKILLS</h3> 
 
-- **Unity**
 - **C#**
 - **Web Development (HTML, CSS, PHP, jQuery, Node.js, JavaScript)**
 - **Python**
@@ -19,6 +18,13 @@ I would later on bring to life. I have experience in the gaming industry and web
 - **PL/SQL Oracle Forms**
 - **Linux**
 
+<h3>APPLICATIONS</h3> (I'm familiar with)
+
+- **Unity**
+- **Fork**
+- **Jira**
+- **Notion**
+- **IDEs (IntelliJ, Visual Studio Code, Visual Studio)**
 
  &emsp;You can check out all my projects from my repositories.
 
