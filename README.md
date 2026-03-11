@@ -1,10 +1,9 @@
 <h1>About Me </h1>
 
 Hello ✨, \
-&emsp;My name is Anastasya Duygu Kılıç and I'm a fourth year student in Bilkent University
-studying Software Engineering. I always had a passion for learning coding and coming up with projects 
-that I would later on bring to life. Currently I aspire to be in the gaming industry but I also
-have experience in web development.
+&emsp;My name is Anastasya Duygu Kılıç and I'm a Bilkent University graduate from Software
+Engineering. I always had a passion for learning coding and coming up with projects that
+I would later on bring to life. I have experience in the gaming industry and web development.
 
 <h3>SKILLS</h3> 
 
@@ -21,7 +20,7 @@ have experience in web development.
 - **Linux**
 
 
- &emsp;I'm currently learning HLSL
+ &emsp;
 
 <!---
 AnastasyaDuygu/AnastasyaDuygu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
