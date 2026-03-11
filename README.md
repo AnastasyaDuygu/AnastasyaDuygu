@@ -1,7 +1,7 @@
 <h1>About Me </h1>
 
 Hello ✨, \
-&emsp;My name is Anastasya Duygu Kılıç and I'm a Bilkent University graduate from Software
+&emsp;My name is Anastasya Duygu Kılıç, and I'm a Bilkent University graduate from Software
 Engineering. I always had a passion for learning coding and coming up with projects that
 I would later on bring to life. I have experience in the gaming industry and web development.
 
