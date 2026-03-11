@@ -20,7 +20,7 @@ I would later on bring to life. I have experience in the gaming industry and web
 - **Linux**
 
 
- &emsp;
+ &emsp;You can check out all my projects from my repositories.
 
 <!---
 AnastasyaDuygu/AnastasyaDuygu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
